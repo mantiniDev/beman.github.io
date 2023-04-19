@@ -1,0 +1,63 @@
+
+     body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #f8f9fa;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 48px;
+      font-weight: bold;
+    }
+
+    p {
+      margin: 20px 0;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+      background-color: #0069d9;
+      border-color: #0062cc;
+    }
+
+    .btn-primary:focus,
+    .btn-primary.focus {
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+    }
+
+    footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #f1eaf1;
+      padding: 10px;
+      text-align: center;
+      font-size: 14px;
+      color: #111110;
+      font-family: 'Comic Neue', cursive;
+   }
+   
+   footer p {
+      margin: 0;
+      color: #0f0f0f;
+   }
+   
+   footer a {
+      color: #0f0f0f;
+      text-decoration: none;
+      font-family: 'Orbitron', regular;
+   }
