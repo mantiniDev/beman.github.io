@@ -1,6 +1,6 @@
 
      body {
-      font-family: Arial, sans-serif;
+      font-family: 'roboto', regular 400;
       font-size: 16px;
       line-height: 1.5;
       color: #333;
@@ -9,7 +9,7 @@
     }
 
     header {
-      background-color: #f8f9fa;
+      background-color: #106770;
       padding: 20px;
     }
 
@@ -17,10 +17,17 @@
       margin: 0;
       font-size: 48px;
       font-weight: bold;
+      font-family: 'Orbitron', regular;
+      color: #14c49d;
+      text-align: center;
     }
 
     p {
       margin: 20px 0;
+      font-family: 'roboto', regular;
+      color: #041726;
+      text-align: center;
+      text-justify: auto;
     }
 
     .btn-primary {
@@ -43,21 +50,25 @@
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: #f1eaf1;
+      background-color: #106770;
       padding: 10px;
       text-align: center;
       font-size: 14px;
-      color: #111110;
-      font-family: 'Comic Neue', cursive;
+      color: #041726;
+      font-family: 'roboto', regular;
    }
    
    footer p {
       margin: 0;
-      color: #0f0f0f;
+      color: #041726;
    }
    
    footer a {
-      color: #0f0f0f;
+      color: #041726;
       text-decoration: none;
       font-family: 'Orbitron', regular;
    }
+
+   div {
+    text-align: center;
+  }
