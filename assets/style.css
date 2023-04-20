@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
 
 body {
   font-family: 'roboto', regular 400;
@@ -67,7 +68,7 @@ footer p {
 footer a {
   color: #041726;
   text-decoration: none;
-  font-family: 'Orbitron', regular;
+  font-family: 'Orbitron', sans-serif;
 }
 
 div {
